@@ -1,5 +1,5 @@
 ## Introduction
-**Hey!** My name is Lucia, and I'm an 18 year-old South African student at the [University of Cape Town](https://uct.ac.za/).
+**Hey!** My name is Lucia, and I'm a 19 year-old South African student at the [University of Cape Town](https://uct.ac.za/).
 
 I'm currently studying BSc Business Computing and Computer Science, with several Computer Science-focused hobbies that help push me along in my learning.
 
