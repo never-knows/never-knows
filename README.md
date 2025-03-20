@@ -13,5 +13,5 @@ I'm engrossed in said studies right now, but my main interests are:
 - [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/)
 - [Lua](https://www.lua.org/)
 - [DreamMaker](https://www.byond.com/docs/ref/info.html)
-- [Structured Query Language](https://learn.microsoft.com/en-us/sql/odbc/reference/structured-query-language-sql)
+- [SQL](https://learn.microsoft.com/en-us/sql/odbc/reference/structured-query-language-sql)
 - [Python](https://www.python.org/)
