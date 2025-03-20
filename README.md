@@ -14,3 +14,4 @@ I'm engrossed in said studies right now, but my main interests are:
 - [Lua](https://www.lua.org/)
 - [DreamMaker](https://www.byond.com/docs/ref/info.html)
 - [Structured Query Language](https://learn.microsoft.com/en-us/sql/odbc/reference/structured-query-language-sql)
+- [Python](https://www.python.org/)
